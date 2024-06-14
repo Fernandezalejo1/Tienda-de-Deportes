@@ -1,0 +1,81 @@
+[
+    {
+        "id": 1,
+        "name": "Camiseta",
+        "price": 12.50,
+        "image": "imagenes/camiseta.avif"
+    },
+    {
+        "id": 2,
+        "name": "Gorro",
+        "price": 25.99,
+        "image": "imagenes/gorro.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Pantalón Deportivo",
+        "price": 35.75,
+        "image": "imagenes/pantalon.webp"
+    },
+    {
+        "id": 4,
+        "name": "Zapatillas de Running",
+        "price": 150.00,
+        "image": "imagenes/zapas.jpeg"
+    }
+    ,
+    {
+        "id": 5,
+        "name": "Buzos",
+        "price": 100.00,
+        "image": "imagenes/buzo.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Conjunto",
+        "price": 150.00,
+        "image": "imagenes/buzos.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Celular",
+        "price": 575.00,
+        "image": "imagenes/celular.png"
+    }
+    ,
+    {
+        "id": 8,
+        "name": "Teclado",
+        "price": 15.00,
+        "image": "imagenes/teclado.jpg"
+    }
+    ,
+    {
+        "id": 9,
+        "name": "Mouse",
+        "price": 25.00,
+        "image": "imagenes/mouse.jpg"
+    }
+    ,
+    {
+        "id": 10,
+        "name": "Medias",
+        "price": 65.00,
+        "image": "imagenes/medias.jpg"
+    }
+    ,
+    {
+        "id": 11,
+        "name": "Pesas",
+        "price": 19.00,
+        "image": "imagenes/pesas.webp"
+    }
+    ,
+    {
+        "id": 12,
+        "name": "Pulsera",
+        "price": 10.00,
+        "image": "imagenes/pulsera.avif"
+    }
+
+]
